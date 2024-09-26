@@ -5,6 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <build>
   <finalName>My-calculator</finalName>
+  
     <plugins>
         <plugin>
             <!-- Build an executable JAR -->
